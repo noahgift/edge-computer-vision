@@ -12,6 +12,11 @@
 ## Lesson 5: Running Computer Vision ML models on the Edge  
 ## Lesson 6: Final Presentations
 
+### GPU References
+
+* NVidia Cuda:  https://docs.nvidia.com/cuda/cuda-quick-start-guide/index.html#linux
+
+
 ### Additional Related Topics from Noah Gift
 
 His most recent books are:
