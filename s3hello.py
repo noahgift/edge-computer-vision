@@ -1,8 +1,6 @@
 import boto3
 import pandas as pd
 
-var=
-
 def hello():
     location = '/tmp/nba_2017_endorsement_full_stats.csv'
     resource = boto3.resource("s3")
