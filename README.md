@@ -1,5 +1,10 @@
 # Edge Computer Vision Course
 
+## Build Status
+
+[![CircleCI](https://circleci.com/gh/noahgift/edge-computer-vision.svg?style=svg)](https://circleci.com/gh/noahgift/edge-computer-vision)
+
+
 ## Lesson 1:  Introduction to Applied Computer Vision
 
 * Overview of Syllabus (30 min)
