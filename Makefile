@@ -11,6 +11,6 @@ test:
 
 
 lint:
-	pylint --disable=R,C s3hello.py
+	pylint --disable=R,C s3hello.py face.py detect.py
 
 all: install lint test
