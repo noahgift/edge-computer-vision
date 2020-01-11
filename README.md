@@ -17,6 +17,9 @@
 ## Lesson 3: AI Computer Vision APIs
 ## [Project Week]
 ## Lesson 4: AutoML Computer Vision
+
+* Ludwig example:  https://uber.github.io/ludwig/examples/
+
 ## Lesson 5: Running Computer Vision ML models on the Edge  
 ## Lesson 6: Final Presentations
 
