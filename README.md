@@ -19,6 +19,7 @@
 ## Lesson 4: AutoML Computer Vision
 
 * Ludwig example:  https://uber.github.io/ludwig/examples/
+* AutoML Tutorial GCP:  https://cloud.google.com/vision/automl/docs/tutorial
 
 ## Lesson 5: Running Computer Vision ML models on the Edge  
 ## Lesson 6: Final Presentations
