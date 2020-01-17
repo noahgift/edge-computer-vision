@@ -15,6 +15,9 @@
 * [Emerging Computer Vision Technologies](https://github.com/noahgift/edge-computer-vision/blob/master/computer_vision_lecture2.ipynb)
 
 ## Lesson 3: AI Computer Vision APIs
+
+* [Computer Vision APIs](https://github.com/noahgift/edge-computer-vision/blob/master/computer_vision_lecture3.ipynb)
+
 ## [Project Week]
 ## Lesson 4: AutoML Computer Vision
 
