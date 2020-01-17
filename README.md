@@ -21,8 +21,9 @@
 ## [Project Week]
 ## Lesson 4: AutoML Computer Vision
 
-* Ludwig example:  https://uber.github.io/ludwig/examples/
-* AutoML Tutorial GCP:  https://cloud.google.com/vision/automl/docs/tutorial
+* [AutoML](https://github.com/noahgift/edge-computer-vision/blob/master/computer_vision_lecture4.ipynb)
+* [Ludwig example](https://uber.github.io/ludwig/examples/)
+* [AutoML Tutorial GCP](https://cloud.google.com/vision/automl/docs/tutorial)
 
 ## Lesson 5: Running Computer Vision ML models on the Edge
 
@@ -32,8 +33,7 @@
 
 ### GPU References
 
-* NVidia Cuda:  https://docs.nvidia.com/cuda/cuda-quick-start-guide/index.html#linux
-
+* [NVidia Cuda](https://docs.nvidia.com/cuda/cuda-quick-start-guide/index.html#linux)
 
 ### Additional Related Topics from Noah Gift
 
