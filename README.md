@@ -12,22 +12,22 @@
 
 ## Lesson 2:  Emerging Computer Vision Technologies
 
-* [Emerging Computer Vision Technologies](https://github.com/noahgift/edge-computer-vision/blob/master/computer_vision_lecture2.ipynb)
+* [Lecture:  Emerging Computer Vision Technologies](https://github.com/noahgift/edge-computer-vision/blob/master/computer_vision_lecture2.ipynb)
 
 ## Lesson 3: AI Computer Vision APIs
 
-* [Computer Vision APIs](https://github.com/noahgift/edge-computer-vision/blob/master/computer_vision_lecture3.ipynb)
+* [Lecture:  Computer Vision APIs](https://github.com/noahgift/edge-computer-vision/blob/master/computer_vision_lecture3.ipynb)
 
 ## [Project Week]
 ## Lesson 4: AutoML Computer Vision
 
-* [AutoML](https://github.com/noahgift/edge-computer-vision/blob/master/computer_vision_lecture4.ipynb)
+* [Lecture:  AutoML](https://github.com/noahgift/edge-computer-vision/blob/master/computer_vision_lecture4.ipynb)
 * [Ludwig example](https://uber.github.io/ludwig/examples/)
 * [AutoML Tutorial GCP](https://cloud.google.com/vision/automl/docs/tutorial)
 
 ## Lesson 5: Running Computer Vision ML models on the Edge
 
-* [Edge Computer Vision](https://github.com/noahgift/edge-computer-vision/blob/master/computer_vision_lecture5.ipynb)
+* [Lecture:  Edge Computer Vision](https://github.com/noahgift/edge-computer-vision/blob/master/computer_vision_lecture5.ipynb)
 
 ## Lesson 6: Final Presentations
 
