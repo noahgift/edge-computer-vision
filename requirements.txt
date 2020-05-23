@@ -2,3 +2,4 @@ pylint
 pandas
 boto3
 click
+ipython
