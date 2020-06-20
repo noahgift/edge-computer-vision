@@ -1,5 +1,10 @@
 # Edge Computer Vision Course
 
+## Github Actions
+
+![Python application test with Github Actions](https://github.com/noahgift/edge-computer-vision/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
+
+
 ## Build Status
 
 [![CircleCI](https://circleci.com/gh/noahgift/edge-computer-vision.svg?style=svg)](https://circleci.com/gh/noahgift/edge-computer-vision)
