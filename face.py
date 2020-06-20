@@ -2,11 +2,11 @@ import boto3
 
 client = boto3.client('rekognition')
 
-response = client.detect_faces(
+response = client.detect_labels(
     Image={
         'S3Object': {
-            'Bucket': 'dec27computervision',
-            'Name': 'jeff_portrait.jpg',
+            'Bucket': 'computervisiontest619',
+            'Name': 'elephant.jpeg',
         },
     },
 )

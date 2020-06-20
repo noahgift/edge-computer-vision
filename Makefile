@@ -12,6 +12,6 @@ test:
 
 
 lint:
-	pylint --disable=R,C s3hello.py 
+	pylint --disable=R,C,E1120 animal.py
 
 all: install lint test
