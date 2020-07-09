@@ -36,9 +36,16 @@
 
 ## Lesson 6: Final Presentations
 
+## Additional Resources
+
 ### GPU References
 
 * [NVidia Cuda](https://docs.nvidia.com/cuda/cuda-quick-start-guide/index.html#linux)
+
+### Visualization
+
+* [Streamlit](https://www.streamlit.io/)
+
 
 ### Additional Related Topics from Noah Gift
 
